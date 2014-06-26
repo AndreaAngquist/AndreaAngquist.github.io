@@ -368,7 +368,7 @@ jQuery(document).ready(function($) {
 	$(window).load(function(){
 		if( $('#map_canvas').hasClass('google_map') ) {
 			//Google Map					
-			var latlng = new google.maps.LatLng(37.383935,-122.137270);
+			var latlng = new google.maps.LatLng(45.738028,21.224535);
 			var settings = {
 				zoom: 16,
 				center: new google.maps.LatLng(37.383935,-122.137270), mapTypeId: google.maps.MapTypeId.ROADMAP,
