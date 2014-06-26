@@ -371,7 +371,7 @@ jQuery(document).ready(function($) {
 			var latlng = new google.maps.LatLng(45.738028,21.224535);
 			var settings = {
 				zoom: 16,
-				center: new google.maps.LatLng(37.383935,-122.137270), mapTypeId: google.maps.MapTypeId.ROADMAP,
+				center: new google.maps.LatLng(45.738028,21.224535), mapTypeId: google.maps.MapTypeId.ROADMAP,
 				mapTypeControl: false,
 				scrollwheel: false,
 				draggable: true,
@@ -393,9 +393,9 @@ jQuery(document).ready(function($) {
 			var contentString = '<div id="content">'+
 				'<div id="siteNotice">'+
 				'</div>'+
-				'<h3 id="firstHeading" class="firstHeading">Me!</h3>'+
+				'<h3 id="firstHeading" class="firstHeading">Laro</h3>'+
 				'<div id="bodyContent">'+
-				'<p>Lets grab a coffee if we're neighbors.'</p>'+
+				'<p>Here we are. Come to drink a coffee!</p>'+
 				'</div>'+
 				'</div>';
 			var infowindow = new google.maps.InfoWindow({
@@ -409,13 +409,13 @@ jQuery(document).ready(function($) {
 			);
 			
 			
-			var companyPos = new google.maps.LatLng(37.383935,-122.137270);
+			var companyPos = new google.maps.LatLng(45.738028,21.224535);
 			
 			var companyMarker = new google.maps.Marker({
 				position: companyPos,
 				map: map,
 				icon: companyImage,               
-				title: "Andrea",
+				title: "Laro",
 				zIndex: 3
 			});
 			
