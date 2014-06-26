@@ -409,13 +409,13 @@ jQuery(document).ready(function($) {
 			);
 			
 			
-			var companyPos = new google.maps.LatLng(45.738028,21.224535);
+			var companyPos = new google.maps.LatLng(37.383935,-122.137270);
 			
 			var companyMarker = new google.maps.Marker({
 				position: companyPos,
 				map: map,
 				icon: companyImage,               
-				title: "Laro",
+				title: "Here I Am!",
 				zIndex: 3
 			});
 			
