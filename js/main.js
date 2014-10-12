@@ -284,7 +284,7 @@ jQuery(document).ready(function($) {
 		} else if($('body').hasClass('image-background')) {
 		
 			$("body").backstretch([
-				"images/abstract background test.png"
+				"images/coloredpencils.jpg"
 			]);
 			
 		}
