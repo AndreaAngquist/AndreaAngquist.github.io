@@ -284,7 +284,7 @@ jQuery(document).ready(function($) {
 		} else if($('body').hasClass('image-background')) {
 		
 			$("body").backstretch([
-				"http://placehold.it/1980x1080"
+				"images/abstract background test.png"
 			]);
 			
 		}
