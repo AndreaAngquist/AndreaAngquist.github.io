@@ -458,7 +458,6 @@ input.placeholder, textarea.placeholder { color: #555555; }
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ffffff;
     z-index: 10000;
 }
 
