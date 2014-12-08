@@ -1285,7 +1285,7 @@ input.placeholder, textarea.placeholder { color: #555555; }
 .portfolio .portfolio-item .project-details {
 	width: 100%;
 	overflow: hidden;
-	position: relarive;
+	position: relative;
 	padding: 20px;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
