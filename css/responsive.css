@@ -140,5 +140,18 @@ Version: 1.5
 	#home .color-white {
 		font-size: 36px;
 	}
+	
+	.logo-white {
+		position: absolute;
+		width: 90%;
+		height: 90%;
+	}
+
+	.logo-color {
+		display: none;
+		position: absolute;
+		width: 90%;
+		height: 90%;
+	}
 
 }
