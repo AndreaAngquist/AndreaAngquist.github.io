@@ -137,8 +137,8 @@ Version: 1.5
 		font-size: 30px;
 	}
 	
-	h1 {
-		font-size: 50%;
+	#home .color-white {
+		font-size: 80%;
 	}
 
 }
