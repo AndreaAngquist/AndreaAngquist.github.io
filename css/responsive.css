@@ -142,14 +142,16 @@ Version: 1.5
 	}
 	
 	.logo-white {
-		position: absolute;
+		position: relative;
+		float: left;
 		width: 70%;
 		height: 70%;
 	}
 
 	.logo-color {
 		display: none;
-		position: absolute;
+		position: relative;
+		float: left;
 		width: 70%;
 		height: 70%;
 	}
