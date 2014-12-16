@@ -136,5 +136,9 @@ Version: 1.5
 	.portfolio .portfolio-item .project-overlay .fa {
 		font-size: 30px;
 	}
+	
+	h1 {
+		font-size: 50%;
+	}
 
 }
