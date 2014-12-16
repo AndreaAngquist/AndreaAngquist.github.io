@@ -145,6 +145,7 @@ Version: 1.5
 		position: absolute;
 		width: 60%;
 		height: 60%;
+		padding: 10px;
 	}
 
 	.logo-color {
