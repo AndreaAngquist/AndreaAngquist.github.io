@@ -143,15 +143,15 @@ Version: 1.5
 	
 	.logo-white {
 		position: absolute;
-		width: 90%;
-		height: 90%;
+		width: 80%;
+		height: 80%;
 	}
 
 	.logo-color {
 		display: none;
 		position: absolute;
-		width: 90%;
-		height: 90%;
+		width: 80%;
+		height: 80%;
 	}
 
 }
