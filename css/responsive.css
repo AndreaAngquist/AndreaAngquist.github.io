@@ -153,5 +153,15 @@ Version: 1.5
 		width: 60%;
 		height: 60%;
 	}
+	
+	#navigation.animated_nav .nav_border {
+		width: 100%;
+		height: 1px;
+		position: absolute;
+		bottom:20;
+		background: #f8fdfd;
+		background: rgba(10, 10, 10, 0.06);
+		z-index: -1;
+	}
 
 }
