@@ -129,6 +129,11 @@ Version: 1.5
 		font-size: 40px;
 	}
 	
+	.wc-logo {
+		width: 320px; 
+		height: 32px;
+	}
+	
 }
 
 @media (max-width: 480px) {
