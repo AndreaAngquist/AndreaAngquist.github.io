@@ -146,8 +146,8 @@ Version: 1.5
 		font-size: 36px;
 	}
 	
-	#about .p {
-		font-size: 20px;
+	#about p .lead {
+		font-size: 14px;
 	}
 	
 	.wc-logo {
