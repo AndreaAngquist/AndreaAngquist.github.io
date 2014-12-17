@@ -720,6 +720,11 @@ input.placeholder, textarea.placeholder { color: #555555; }
 	position: relative;
 }
 
+.wc-logo {
+	width: 350px; 
+	height: 35px;
+}
+
 .logo-white {
 	position: absolute;
 	width: 100%;
