@@ -155,5 +155,9 @@ Version: 1.5
 		height: 25px;
 	}
 	
+	.section-title {
+		font-size: 75%;
+	}
+	
 
 }
