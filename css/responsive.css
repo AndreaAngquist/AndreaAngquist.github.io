@@ -141,9 +141,9 @@ Version: 1.5
 		font-size: 36px;
 	}
 	
-	#home .navbar-brand .scrollto .wc-logo {
-		width: 220px; 
-		height: 20px;
+	.navbar-brand .scrollto .wc-logo {
+		width: 65%; 
+		height: 90%;
 	}
 	
 	.logo-white {
