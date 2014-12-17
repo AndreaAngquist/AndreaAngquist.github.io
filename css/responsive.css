@@ -146,6 +146,10 @@ Version: 1.5
 		font-size: 36px;
 	}
 	
+	#about .lead {
+		font-size: 30px;
+	}
+	
 	.wc-logo {
 		width: 250px; 
 		height: 25px;
