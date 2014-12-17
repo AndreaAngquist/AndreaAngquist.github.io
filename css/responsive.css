@@ -142,20 +142,9 @@ Version: 1.5
 	}
 	
 	.wc-logo {
-		width: 240px; 
-		height: 24px;
+		width: 250px; 
+		height: 25px;
 	}
 	
-	.logo-white {
-		position: absolute;
-		width: 80%;
-	
-	}
-
-	.logo-color {
-		display: none;
-		position: absolute;
-		width: 80%;
-	}
 
 }
